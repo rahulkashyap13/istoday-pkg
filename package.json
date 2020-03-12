@@ -1,0 +1,21 @@
+{
+  "name": "istoday-date",
+  "version": "1.0.0",
+  "description": "This will check is date is today or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "istoday",
+    "is-today",
+    "is",
+    "today",
+    "istoday-date"
+  ],
+  "author": "rahul kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
