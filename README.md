@@ -11,6 +11,3 @@ use in code
 
 const checkToday = isToday(new Date()); // true,false
 ```
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
